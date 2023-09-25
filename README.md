@@ -47,9 +47,5 @@ class Myself:
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=coxy57&theme=tokyonight&show_icons=true">
 </p>
 
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
-</p>
-
 
 
