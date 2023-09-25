@@ -30,15 +30,14 @@ class Myself:
 	
 	@property
 	def coding_experience() -> Tuple[dict, list, list]:
-            langs = {
+            coding_languages = {
 		'expert':   ['python'],
-		'intermediate': ['js'],
 		'learning': ['go','c++','java']
             }
             specialities  = ['reverse engineering']
             ide = ['pycharm']
 		
-            return langs, specialities, ide
+            return coding_languages, specialities, ide
 
 ```
 <h2 align="center">My Statistics</h2>
