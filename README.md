@@ -43,7 +43,7 @@ class Myself:
 <h2 align="center">My Statistics</h2>
 
 
-<p href="https://discord.gg/onlp" align="center">
+<p href="https://fbi.gov" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=coxy57&theme=tokyonight&show_icons=true">
 </p>
 
