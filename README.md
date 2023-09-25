@@ -22,10 +22,11 @@ class Myself:
 	    return discord
 	
 	@property
-	def my_life() -> Tuple[list, int]:
+	def my_life() -> Tuple[list, int,str]:
             languages = ['English']
             age = 16
-            return languages, age
+            coding_time = "3 years"
+            return languages, age, coding_time
 	
 	@property
 	def coding_experience() -> Tuple[dict, list, list]:
