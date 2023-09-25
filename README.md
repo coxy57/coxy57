@@ -12,22 +12,20 @@ class Myself:
 	@property
 	def contact_me() -> str:
 	    discord  = "coxy57."
-	    
 	    return discord
 	
 	@property
 	def my_life() -> Tuple[list, int]:
-		langs         = ['English']
-		age           = 16
-		
+		langs = ['English']
+		age = 16
 		return langs, age
 	
 	@property
 	def coding_experience() -> Tuple[dict, list, list]:
 		langs = {
 			'expert':   ['python'],
-			'intermediate': ['go', 'js'],
-			'learning': ['c', 'c++', 'c#', 'asm', 'java']
+			'intermediate': ['js'],
+			'learning': ['go','c++','java']
 		}
 		specialities  = ['reverse engineering']
 		ide = ['pycharm']
