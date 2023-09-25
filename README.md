@@ -30,9 +30,9 @@ class Myself:
 	@property
 	def coding_experience() -> Tuple[dict, list, list]:
             langs = {
-			'expert':   ['python'],
-			'intermediate': ['js'],
-			'learning': ['go','c++','java']
+		'expert':   ['python'],
+		'intermediate': ['js'],
+		'learning': ['go','c++','java']
             }
             specialities  = ['reverse engineering']
             ide = ['pycharm']
