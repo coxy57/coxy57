@@ -40,7 +40,7 @@ class Myself:
             return langs, specialities, ide
 
 ```
-<h2 align="center">My Skills</h2>
+<h2 align="center">My Statistics</h2>
 
 
 <p href="https://discord.gg/onlp" align="center">
