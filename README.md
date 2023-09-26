@@ -12,6 +12,9 @@
   </a>
 </p>
 
+<h4> Brief Intro </h4>
+- I'm currently 16 years old and I have been doing python for 3 years.
+
 
 ```python
 
