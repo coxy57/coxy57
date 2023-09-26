@@ -16,28 +16,27 @@
 ```python
 
 class Myself:
-	@property
-	def contact_me() -> str:
-	    discord  = "coxy57."
-	    return discord
+  @property
+  def contact_me() -> str:
+    discord  = "coxy57."
+    return discord
 	
-	@property
-	def my_life() -> Tuple[list, int,str]:
-            languages = ['English']
-            age = 16
-            coding_time = "3 years"
-            return languages, age, coding_time
+  @property
+  def my_life() -> Tuple[list, int,str]:
+    languages = ['English']
+    age = 16
+    coding_time = "3 years"
+    return languages, age, coding_time
 	
-	@property
-	def coding_experience() -> Tuple[dict, list, list]:
-            coding_languages = {
-		'expert':   ['python'],
-		'learning': ['go','c++','java']
-            }
-            specialities  = ['reverse engineering']
-            ide = ['pycharm']
-		
-            return coding_languages, specialities, ide
+   @property
+   def coding_experience() -> Tuple[dict, list, list]:
+     coding_languages = {
+       'expert':   ['python'],
+       'learning': ['go','c++','java']
+     }
+     specialities  = ['reverse engineering']
+     ide = ['pycharm']
+     return coding_languages, specialities, ide
 
 ```
 <h2 align="center">My Statistics</h2>
