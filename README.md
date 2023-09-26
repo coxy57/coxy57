@@ -8,13 +8,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,css,html" />
   </a>
 </p>
 
 <p>
-<h4> Brief Intro </h4>
-- I'm currently 16 years old and I have been doing python for 3 years.
+  <h4> Brief Intro </h4>
+    - I'm currently 16 years old.
+    - I have been doing python for 3+ years.
+    - I love to code in my freetime.
+    - I live in the U.S.
 </p>
 
 ```python
