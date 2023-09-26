@@ -14,9 +14,9 @@
 
 <p>
   <h4> Brief Intro </h4>
-    - I'm currently 16 years old.
-    - I have been doing python for 3+ years.
-    - I love to code in my freetime.
+    - I'm currently 16 years old.<br>
+    - I have been doing python for 3+ years.<br>
+    - I love to code in my freetime.<br>
     - I live in the U.S.
 </p>
 
