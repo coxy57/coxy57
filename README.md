@@ -25,7 +25,7 @@
 class Myself:
   @property
   def contact_me() -> str:
-    discord  = "coxy57."
+    discord  = "coxy.57"
     return discord
 	
   @property
